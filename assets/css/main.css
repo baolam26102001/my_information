@@ -182,6 +182,7 @@ i.fa-brands.fa-github {
 }
 
 .title__discriptions-overview {
+    position: relative;
     height: 115px;
     width: 100%;
     align-items: center;
@@ -202,7 +203,7 @@ i.fa-brands.fa-github {
 
 .title__discriptions-img {
     position: absolute;
-    right: 145px;
+    right: 0;
 }
 
 .title__overview-img{
