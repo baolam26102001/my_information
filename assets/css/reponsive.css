@@ -193,4 +193,12 @@
         max-width: none;
         height: 140px;
     }
+
+    .enjoin__content-item{
+        width: 100%;
+    }
+    .slide__img-enjoin{
+        height: 60%;
+        margin: 10px 15px;
+    }
 }
